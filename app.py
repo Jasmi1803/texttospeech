@@ -120,4 +120,4 @@ def remove_files(n):
                 print("Deleted ", f)
 
 
-remove_files(7)v
+remove_files(7)
